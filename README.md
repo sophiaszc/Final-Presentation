@@ -13,6 +13,9 @@ The main takeaway of the migration to AWS was they focused on gradual migration 
 	
 # Sources:
 https://www.datacenterknowledge.com/archives/2016/10/25/cockcroft-the-man-behind-netflixs-move-to-aws-joins-aws
+
 https://www.datacenterdynamics.com/en/news/netflix-ebay-alum-adrian-cockcroft-joins-aws-as-vp-of-cloud-architecture/
+
 https://projecttoproduct.org/podcast/adrian-cockcroft/ 
+
 https://www.youtube.com/watch?v=XrWII4ewrXA 
